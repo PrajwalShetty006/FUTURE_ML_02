@@ -1,1 +1,3 @@
 # FUTURE_ML_02
+## Building a Churn Prediction Model as a part of my second task of internship of Future Interns
+## Deploying the Churn Prediction Model on Render
